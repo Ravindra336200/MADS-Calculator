@@ -3,6 +3,7 @@ Contrary to typical BODMAS rule followed in solving mathematical operations ever
 
 # Demo
 Use debug apk for testing purpose.(Credentials: test123@gmail.com;test@123)
+https://user-images.githubusercontent.com/42216674/163115499-c71fff56-0354-4da4-bc8a-e4b2786f2aa6.mp4
 
 
 
