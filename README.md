@@ -8,7 +8,7 @@ Use debug apk for testing purpose.(Credentials: test123@gmail.com;test@123)
 
 #Screenshots
 
-![MADS_1](https://user-images.githubusercontent.com/42216674/163114417-5d7e4012-3316-434f-95f9-edc480cce92c.jpg)
+![MADS_1](https://user-images.githubusercontent.com/42216674/163114553-7d6992c2-ebfb-4ea5-9b1b-75da88692023.jpg)
 ![MADS_2](https://user-images.githubusercontent.com/42216674/163114425-b6b1a4b0-0017-4bf2-8aed-7349ca28b265.jpg)
 ![MADS_3](https://user-images.githubusercontent.com/42216674/163114434-260762cd-18fd-4697-ab3c-ad3df5226adf.jpg)
 
