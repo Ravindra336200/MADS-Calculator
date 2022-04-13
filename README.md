@@ -4,3 +4,9 @@ Contrary to typical BODMAS rule followed in solving mathematical operations ever
 # Demo
 Use debug apk for testing purpose.(Credentials: test123@gmail.com;test@123)
 
+![Screenshot](MADS_1.jpg)
+![Screenshot](MADS_2.jpg)
+![Screenshot](MADS_3.jpg)
+
+
+
