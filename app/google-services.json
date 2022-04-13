@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "654009498507",
+    "project_id": "mads-calculator-808a7",
+    "storage_bucket": "mads-calculator-808a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654009498507:android:6a86b8c47ee672b5c98d8e",
+        "android_client_info": {
+          "package_name": "com.kinfolkstech.madscalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654009498507-d53rpr9mr8rg81t6073cvujh7c3vhbuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA87Zh0ocl3RKQ5aTl_S7qXac3rUap_reg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654009498507-d53rpr9mr8rg81t6073cvujh7c3vhbuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
