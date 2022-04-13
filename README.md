@@ -5,5 +5,10 @@ Contrary to typical BODMAS rule followed in solving mathematical operations ever
 Use debug apk for testing purpose.(Credentials: test123@gmail.com;test@123)
 
 
-<img src="relative/path/in/repository/Screenshot/MADS_!"/>
+
+#Screenshots
+![MADS_1](https://user-images.githubusercontent.com/42216674/163113606-dde1bb41-0a9d-4d23-9e45-060df2d624e0.jpg)
+![MADS_2](https://user-images.githubusercontent.com/42216674/163113649-330b7f37-d121-417b-8979-24870ca9ff65.jpg)
+![MADS_3](https://user-images.githubusercontent.com/42216674/163113663-16272b4c-5fac-4bd9-8dde-ecbbb99c9e68.jpg)
+
 
